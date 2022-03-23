@@ -1,7 +1,7 @@
 const logo = `
 乂. Jasa Design Logo .乂
 
-*NB* :  _LOGO BISA PILIH , ATAU REQUEST KARAKTER, DAN WAKTU PEMBUATAN 10-15 MENIT_
+*NB* :  _LOGO BISA PILIH , ATAU REQUEST KARAKTER, DAN WAKTU PEMBUATAN 10-30 MENIT_
 
 シ • *LIST HARGA* :
 ☠︎. LOGO JB : Rp. *2.000*
@@ -17,5 +17,5 @@ const logo = `
 ︎☂︎. _DANA_
 
 *MINAT?* :
-https://wa.me/6281514320594`
+https://wa.me/48699532476`
 exports.logo = logo
