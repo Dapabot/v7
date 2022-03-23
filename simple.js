@@ -230,7 +230,7 @@ module.exports = simple = async (simple, mek, _welkom) => {
 				group: 'Fitur Khusus Grup !!'
 			}
 		}
-		faketeks = '©〖Hིaིiིkིaིlིᴶᴿ.“ψ〗' //Ganti Aja Nama Luh
+		faketeks = '©〖YanzBotz.“ψ〗' //Ganti Aja Nama Luh
 		const isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -371,9 +371,9 @@ const fvid = {
 	 message: { 
                  "videoMessage": { 
                  "title": `Haikal`,
-                 "h": `OWNER KU JELEK😄`,
+                 "h": `OWNER KU GNTNG:V😄`,
                  'duration': '99999', 
-                 'caption': `OWNER KU JELEK😄`,
+                 'caption': `OWNER KU GNTNG:V😄`,
                  'jpegThumbnail': ikal
                         }
                        }
@@ -728,7 +728,7 @@ trans = `              ❬ BOT INFO ❭
 │‣ _*Prefix : Multi*_
 │‣ _*Lenguage : Javascript*_
 │‣ _*Jam : ${time}*_
-└➤ | © Haikal 。✑ ─────
+└➤ | © Yanz 。✑ ─────
 
 _*JIKA BUTTON TIDAK TERLIHAT KETIK .allmenu*_
  © _${week} ${weton} ${date}_`
@@ -806,7 +806,7 @@ break
                nombor = 1
                startnum = 0
                for (let x of listmenu) {
-               const yy = {title: 'YENI💙',
+               const yy = {title: 'YANZ',
                     rows: [
                        {
                         title: `${listmenuu[startnum++]}`,
@@ -876,7 +876,7 @@ break
                nombor = 1
                startnum = 0
                for (let x of listmenu) {
-               const yy = {title: 'Z BOT OFC  🅥 ' + nombor++,
+               const yy = {title: 'YANZ BOT OFC  🅥 ' + nombor++,
                     rows: [
                        {
                         title: `${listmenuu[startnum++]}`,
@@ -944,7 +944,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 emm =
 `_*HAI*_`
 oy =`
-https://chat.whatsapp.com/GCf6umdUm2bL8sQihW31gh
+https://chat.whatsapp.com/
 
 _Ga Join Ga Kawan_
 _*LANJUT? KLIK BUTTON DI BAWAH*_
@@ -1027,12 +1027,12 @@ oy =`
 *>>>>>>>> *LIST HARGA* >>>>>>>>*
 [🔥] . _Fitur Bot Banyak And Ada Catalog Menu_
 
-🐣. _*2Minggu : Rp. 3.000 [ Promo ]*_
-🐣. _*1Bulan : Rp. 5.000 [ Promo ]*_
+🐣. _*2Minggu : Rp. 4.000*_
+🐣. _*1Bulan : Rp. 7.000*_
 🐣. _*Manent : Rp. 10.000 [ Promo ]*_
 
  _Jika Anda Minat Bisa Chat Nomer Ini_
-_*🪀 Wa.me/6289609927539*_
+_*🪀 Wa.me/48699532476*_
 _Note Jangan Spam_
 _*Maaf Jika Slow Respon Karena Sesuai Antrian*_`
 but = [
@@ -1504,7 +1504,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 ppUrl = 'https://i.ibb.co/nmhW71w/20211229-134255.jpeg'
 img = await getBuffer(ppUrl)
 teks = `Hai ${pushname} 👋${tampilUcapan}
-I'M Z-BOT8 ^_^`
+I'M YANZ-BOT ^_^`
 trans = `BOT INFO
 🗿  _*Nama Bot : ${botname}*_
 😨  _️Nama Owner : ${ownername}_
@@ -3144,18 +3144,18 @@ case 'setprofile':
 case 'menudinda':
 simple.updatePresence(from, Presence.recording)
 tod = `
-*STORE BY 𝐀𝐃𝐈𝐍𝐃𝐀*
+*STORE BY Y𝐀nz*
 *serbah murmer n suka promo dadakan🙀, banyak freenya juga lohh yukk joinn💘💘*
 
 LINK GC STORE :
-https://chat.whatsapp.com/JP2SwsR3Yp4LJM7D1CRbsV
+https://chat.whatsapp.com/
 
 ︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶
 
-ᥒႸ⍺rі рᥣр рᥱr⍺k⍺ᥒ ᥒ tut𝘰r 𝗆ur𝗆ᥱr?Ⴘukk 𝗆⍺𝗆ріr 𝖽і A𝖽іᥒ𝖽⍺ 𝘚t𝘰rᥱ😋💘
+ᥒႸ⍺rі рᥣр рᥱr⍺k⍺ᥒ ᥒ tut𝘰r 𝗆ur𝗆ᥱr?Ⴘukk 𝗆⍺𝗆ріr 𝖽і Y⍺ᥒz 𝘚t𝘰rᥱ😋💘
 
 ❁ཻུ۪۪⸙͎𝐋𝚰𝐍𝐊 𝐆𝐂 :
-https://chat.whatsapp.com/LC2ux4rUxbSItiqI4qGaXB
+https://chat.whatsapp.com/
 
 ᖯᥒႸ⍺k 𝗆ᥱᥒu ᥣ⍺іᥒ jɡ⍺ ᖯᥱᖯᖯ :
 ៰࣪ ࣭ 🍪Aᥣᥣ рᥣр
@@ -3177,7 +3177,7 @@ https://chat.whatsapp.com/LC2ux4rUxbSItiqI4qGaXB
 *MAU BUY JASA? PILIH BUTTON DINDA DI BAWAH*
 ─`
 but = [
-{ buttonId: `${prefix}dinda`, buttonText: { displayText: 'DINDA😘' }, type: 1 }, 
+{ buttonId: `${prefix}dinda`, buttonText: { displayText: 'DINDA🗿' }, type: 1 }, 
 { buttonId: `${prefix}menu`, buttonText: { displayText: 'BOTNYA☕' }, type: 1 }
 ]
 sendButton(from, tod, faketeks, but, mek)
@@ -3187,14 +3187,14 @@ case 'menubian':
 simple.updatePresence(from, Presence.recording)
 tod = `
 FEE REKBER💰
-_*By : Bian Store*_
+_*By : Yanz Store*_
 •0-50k:2K💵
 •50k-100k:5K💵
 •100k-300k:10K💵
 •300k-500k:15K💵
 •500k-800k:35K💵
 •800k-1JT:50K💵
-•TT/BT:15K💵
+•TT/BT:20K💵
 ─`
 but = [
 { buttonId: `${prefix}bian`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
@@ -3207,7 +3207,7 @@ case 'menuyopki':
 simple.updatePresence(from, Presence.recording)
 tod = `
 
-**ADMIN YOPKI MELAYANI:*
+**ADMIN YANZ MELAYANI:*
 -GOBER!
 -OVOBER!
 -REKBER
@@ -3216,7 +3216,7 @@ tod = `
 _BATAL TRX KE POTONG_
 
 *BER ? SUNG MC LANGSUNG*
-_Fee Admin YOPKI_
+_Fee Admin YANZ_
 
 *🌻1k - 50k : 5k*
 *🌻50k - 100k : 10k*
@@ -3237,11 +3237,11 @@ case 'menunando':
 simple.updatePresence(from, Presence.recording)
 tod = `
 
-NO : 082213416986
+NO : 48699532476
 WASPADA CLONE YA
 SELAIN ITU CLONE YA
 
-*JOIN GRUB JB NANDO STORE KAWAN : https://chat.whatsapp.com/J5BlH0iUuzJ3PwG6rhGAxj*
+*JOIN GRUB JB YANZ STORE KAWAN : https://chat.whatsapp.com/Ch5rqamn6dE94g1L5ih4uM*
 
 *ADMIN NANDO MENYEDIAKAN :*
 📢 GOBER
@@ -3261,8 +3261,8 @@ SELAIN ITU CLONE YA
 
 📍TRX BATAL FEE KEPOTONG
 📍GOBER/BER² : SUNG MC KAN
-📍RAGU? Cek IG nando_store_ff
-📍BE SMART BUYER NANDO JB
+📍RAGU? Cek IG ariff4you_
+📍BE SMART BUYER ARIFF JB
 ─`
 but = [
 { buttonId: `${prefix}nando`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
@@ -3302,7 +3302,7 @@ tod = `
 
 _*MINAT? INGIN SEWA BOT? KLIK LINK DI BAWAH*_
 
-︎☂︎Link : *http://wa.me/6289609927539?text=BG+MAU+SEWA+BOT*
+︎☂︎Link : *http://wa.me/48699532476?text=BG+MAU+SEWA+BOT*
    `
 but = [
 { buttonId: `${prefix}gopay`, buttonText: { displayText: 'GOPAY' }, type: 1 }, 
@@ -3318,7 +3318,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "GOPAY : 089609927539", faketeks, but, mek)
+sendButton(from, "GOPAY : 085868010957", faketeks, but, mek)
 break
 case 'dana':
 simple.updatePresence(from, Presence.recording)
@@ -3326,7 +3326,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "DANA : 089609927539", faketeks, but, mek)
+sendButton(from, "DANA : CHAT OWNER", faketeks, but, mek)
 break
 case 'ovo':
 simple.updatePresence(from, Presence.recording)
@@ -3334,7 +3334,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "OVO : 089609927539", faketeks, but, mek)
+sendButton(from, "OVO : GAK PUNYA🙏", faketeks, but, mek)
 break
 
 //━━━━━━━━━━━━━━━[ FITUR ASUPAN ]━━━━━━━━━━━━━━━━━//
@@ -4137,7 +4137,7 @@ _*❕RULES BOT ${botname}*_
 
 🐼.DILARANG SPAM BOT
 ( *DELAY KON*)
-🐼.DILARANG NGEBANDINGIN BOT ( *KENA MENTAL BOT NYA BAPERAN* )
+🐼.DILARANG NGEBANDINGIN BOT ( *KENA MENTAL BOT NYA BAPERAN:v* )
 🐣.DAH ITU AJA BANG
 
 
@@ -4150,8 +4150,8 @@ _*JANGAN LUPA 5 M*_
 
 _*PATUHI YA AGAR PANDEMI INI CEPAT BERLALU DAN KITA BISA BERAKTIVITAS SEPERTI BIASA LAGI :)*_
 
-#prayforsemeru
-#prayforlumajang
+#prayfor??
+#prayfor?
 ─`
 but = [
 { buttonId: `${prefix}owner`, buttonText: { displayText: '🐣OWNER🐣' }, type: 1 }, 
@@ -4178,7 +4178,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
        stst = await simple.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 tescok = `${menunya(prefix)}`
-Sendbutdocument(from, tescok, "© Z-BOT8*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: '🐣OWNER🐣' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/x-O0WHkv3uc`}}})
+Sendbutdocument(from, tescok, "© YANZ-BOT*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: '🐣OWNER🐣' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/x-O0WHkv3uc`}}})
 break
 
 case 'allmenu':
@@ -4202,9 +4202,9 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 tod = `
  { *BIG PROMO TAHUN BARU*}
  1minggu menuju tahun baru promo SewaBot
-🐣 permanen RP. ~20.000~ jadi => Rp.13.000
-🐣 2minggu ~10.000~ jadi => 3.000
-🐣 Sebulan ~15.000~ jadi => 5.000
+🐣 permanen RP. ~30.000~ jadi => Rp.16.000
+🐣 2minggu ~15.000~ jadi => 5.000
+🐣 Sebulan ~20.000~ jadi => 10.000
 
 _Klik Buttonnya Kak :)_
 
@@ -4506,7 +4506,7 @@ but = [
           { buttonId: `${prefix}menu`, buttonText: { displayText: '😨MENU' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER💀' }, type: 1 }
         ]
-        sendButImage(from, kimak, "© Hིaིiིkིaིlིᴶᴿ.“ψ | ᴮᴼᵀ", img, but)
+        sendButImage(from, kimak, "© Yaིnz.“ψ | ᴮᴼᵀ", img, but)
 break
 
 case 'brainly':
@@ -4556,7 +4556,7 @@ anu = 'https://i.ibb.co/tcjXzFC/20211230-102540.jpg'
 img = await getBuffer(anu)
 we = `
 _*MAU DONASI LEWAT GOPAY BISA SCAN ATAU VIA NOPE DI BAWAH! Boleh banget*_ :)
-_DANA : 089609927539_`
+_DANA : 085868010957_`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4569,7 +4569,7 @@ anu = 'https://i.ibb.co/Ss1kFHh/9e7c91875eae22c9e12acbc95ec155b4.jpg'
 img = await getBuffer(anu)
 we = `
 _*MAU DONASI LEWAT DANA YA KAK? Boleh banget*_ :)
-_DANA : 089609927539_`
+_DANA : chat owner_`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4582,7 +4582,7 @@ anu = 'https://i.ibb.co/pLysPHK/11949c7dc7042ff874b635411b5fd1a4.jpg'
 img = await getBuffer(anu)
 we = `
 _*Mau Donasi Lewat Ovo Ya kak*_ Boleh Banget :)
-OVO : 089609927539`
+OVO : ra duwe banh🗿`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4608,7 +4608,7 @@ break
 case 'catalog': 
 simple.updatePresence(from, Presence.recording)
 reply('```W A I T I N G```')
-                nama = ' 🔥Z-BOT8🔥 '
+                nama = ' 🔥Yanz-BOT🔥 '
        ownerJid = "62815143205943@s.whatsapp.net"
                 nomor = 1
                 itod = `${sender}`
@@ -4827,7 +4827,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 tescok = `❏  _*Runtime : ${runtime(process.uptime())}*_
 
   「 BAILEYS SELF-BOT」 `
-Sendbutdocument(from, tescok, "© Z-BOT8*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: 'SIP,KAK😁' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/WP66OsAf1W0`}}})
+Sendbutdocument(from, tescok, "© YANZ-BOT8*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: 'SIP,KAK😁' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/WP66OsAf1W0`}}})
 break
 
 case 'sc':
@@ -4836,7 +4836,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 url =  'https://i.ibb.co/jJ0hd8t/20220102-153400.jpg'
 foto = await getBuffer(url)
 teks = `
-💾Sc : *https://github.com/Haikalbotz/v7*
+💾Sc : *https://github.com/Dapabot*
 _Spek Sc_ :
 1. *Antilink*
 2. *Welcome Button*
@@ -4847,7 +4847,7 @@ but = [
           { buttonId: `${prefix}menu`, buttonText: { displayText: 'MENU' }, type: 1 },
           { buttonId: `${prefix}rulesbot`, buttonText: { displayText: 'RULES' }, type: 1 }
         ]
-        sendButImage(from, teks, '©Created : Yeni Bot', foto, but,)
+        sendButImage(from, teks, '©Created : Yanz Bot', foto, but,)
 break
 case 'tourl':
     if ((isMedia && !mek.message.videoMessage || isQuotedImage || isQuotedVideo ) && args.length == 0) {
