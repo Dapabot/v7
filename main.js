@@ -50,7 +50,7 @@ console.log(color('  >>>>>>>>>>>>>>>??????>>||||||||||||'))
         start('2', 'Menghubungkan...')
     })
     simple.on('open', () => {
-        success('2', 'Done Udah Nyambung  Subscribe Z-GJ BOTz')
+        success('2', 'Done Udah Nyambung  Subscribe Yanz-GJ BOTz')
     })
     await simple.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./simple.json', JSON.stringify(simple.base64EncodedAuthInfo(), null, '\t'))
@@ -79,7 +79,7 @@ pp_grup =
 "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60"
 }
 if (anu.action == "add" && mem.includes(simple.user.jid)) {
-simple.sendMessage(anu.jid, "_*Makasih Udah Add Saya, Hay Semua Saya Adalah Z BOT Silahkan ketik .menu Untuk Memulai*_")
+simple.sendMessage(anu.jid, "_*Makasih Udah Add Saya, Hay Semua Saya Adalah YANZ BOT Silahkan ketik .menu Untuk Memulai*_")
 }
       
 if (anu.action == 'add') {
@@ -93,7 +93,7 @@ ppUrl = 'https://i.ibb.co/6BRf4Rc/Hans-Bot-No-Profile.png'
 }
 img = await getBuffer(ppUrl)
 teks = `Hallo @${anu_user}\nSelamat Datang Di Group: ${mdata.subject}\n\n*INFO USER*\n🍧 _*NAMA : @${anu_user}*_\n🍧 _*NOMER : @${num.split('@')[0]}*_\n🍧 _*UMUR : GUA BUKAN BAPAKNYA*_\n🍧 _*KELAS : DAH PUNYA ANAK*_\n\n_*Semoga Hari² Mu Menyenangkan*_`
-sendButImage(anu.jid, teks, `© Di Buat Oleh : Haikal Jelek`, img,but = [{buttonId:`hallo`, 
+sendButImage(anu.jid, teks, `© Di Buat Oleh : Yanz Jelek`, img,but = [{buttonId:`hallo`, 
 buttonText:{displayText: 'WELCOME👋!'},type:1}], options = {contextInfo: {mentionedJid: [num, number]},thumbnail: Buffer.alloc(0)})
 } else if (anu.action == 'remove') {
 num = anu.participants[0]
@@ -104,7 +104,7 @@ ppUrl = 'https://i.ibb.co/6BRf4Rc/Hans-Bot-No-Profile.png'
 }
 img = await getBuffer(ppUrl)
 teks = `Bye 👋@${num.split('@')[0]}\nSemoga Amal IBdahnya Si Terima Di sisi Tuhan Yang Maha Esa Selamat Tinggal Di Group: ${mdata.subject}`
-sendButImage(anu.jid, teks, `© Di Buat Oleh : HaikalJelek`, img,but= [{buttonId: `byebye`, buttonText: {displayText: `See You Broo?👋!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, number]}, thumbnail: Buffer.alloc(0)})
+sendButImage(anu.jid, teks, `© Di Buat Oleh : YanzJelek`, img,but= [{buttonId: `byebye`, buttonText: {displayText: `See You Broo?👋!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, number]}, thumbnail: Buffer.alloc(0)})
 } if (anu.action == "promote") {
         const mdata = await simple.groupMetadata(anu.jid)
         anu_user = simple.contacts[mem]
